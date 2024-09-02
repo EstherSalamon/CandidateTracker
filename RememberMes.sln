@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RememberMes.Web", "RememberMes.Web\RememberMes.Web.csproj", "{15E4C3A8-BF3A-4192-A661-E1B6FF03481E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RememberMes.Data", "RememberMes.Data\RememberMes.Data.csproj", "{548336A7-6FB6-4A07-9932-894719484945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E4C3A8-BF3A-4192-A661-E1B6FF03481E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E4C3A8-BF3A-4192-A661-E1B6FF03481E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E4C3A8-BF3A-4192-A661-E1B6FF03481E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E4C3A8-BF3A-4192-A661-E1B6FF03481E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548336A7-6FB6-4A07-9932-894719484945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548336A7-6FB6-4A07-9932-894719484945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548336A7-6FB6-4A07-9932-894719484945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548336A7-6FB6-4A07-9932-894719484945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
